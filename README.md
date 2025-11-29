@@ -9,9 +9,9 @@
 
 ---
 
-## 🧠 **¿Qué es NaufraBot V2?**
+## 🧠 **¿oque e wrprodigy bot?**
 
-🔥 **NaufraBot V2** es una versión mejorada del clásico bot de WhatsApp, totalmente optimizado para funcionar 24/7 en cualquier servidor y completamente gratuito en termux, con **más comandos, rendimiento y estabilidad**.
+🔥 **wrprodigy bot** es una versión mejorada del clásico bot de WhatsApp, totalmente optimizado para funcionar 24/7 en cualquier servidor y completamente gratuito en termux, con **más comandos, rendimiento y estabilidad**.
 
 - 🚀 Compatible con la última versión de **Baileys**
 - 💬 Juegos RPG integrados
